@@ -1,4 +1,5 @@
-### Hi there! My name is Nikishin Artem and I am a begginer software developmer based in Moscow, Russia.
+### Hi there!
+### My name is Nikishin Artem and I am a begginer software developmer based in Moscow, Russia.
 I am currenly working on my pet-project (DRF + Aiogram) and always keen on finding ways to explore the new technologies.
 
 <!--
