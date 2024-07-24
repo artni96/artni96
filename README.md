@@ -1,4 +1,5 @@
-### Hi there! 👋
+### Hi there! My name is Nikishin Artem and I am a begginer software developmer based in Moscow, Russia.
+I am currenly working on my pet-project (DRF + Aiogram) and always keen on finding ways to explore the new technologies.
 
 <!--
 **artni96/artni96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
