@@ -15,6 +15,6 @@ I'm currently working on my project (FastAPI + Aiogram) and always keen on findi
 ---
 [![](https://visitcount.itsvg.in/api?id=artni96&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# favicon-32x32.png LeetCode Stats:
 
 ![](https://leetcard.jacoblin.cool/artni?theme=dark&font=Harmattan)
