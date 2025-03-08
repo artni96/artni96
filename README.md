@@ -3,6 +3,7 @@
 I'm currently working on my project (FastAPI + Aiogram) and always keen on finding ways to explore the new technologies!
 
 https://t.me/artni96
+
 nikishinav96@gmail.com
 
 # 💻 Tech Stack:
